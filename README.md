@@ -13,7 +13,7 @@ Candidate Evaluation Solution for **VexarDrive Technologies × Polaris** Data Sc
 
 Access the deployed executive dashboard live on any browser:
 
-👉 **[View Live App](https://vexardrive-assignment.streamlit.app)** | 🚀 **[Live Deployed App Link](https://vexardrive-assignment.streamlit.app)**
+👉 **[View Live App](https://vexardrive-assignment.streamlit.app)**
 
 ---
 
