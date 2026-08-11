@@ -1,6 +1,6 @@
 # VexarDrive Fleet Analytics & Telemetry Diagnostics Engine
 
-[![Live App](https://img.shields.io/badge/🚀%20Live%20App-vexardrive--assignment.streamlit.app-00E676?style=for-the-badge&logo=streamlit)](https://vexardrive-assignment.streamlit.app)
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-View%20Live%20App-00E676?style=for-the-badge&logo=streamlit)](https://vexardrive-assignment.streamlit.app)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.61%2B-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
@@ -11,9 +11,9 @@ Candidate Evaluation Solution for **VexarDrive Technologies × Polaris** Data Sc
 
 ## 🌐 Live Interactive Dashboard
 
-Access the deployed executive dashboard live on any desktop or mobile browser:
+Access the deployed executive dashboard live on any browser:
 
-👉 **[https://vexardrive-assignment.streamlit.app](https://vexardrive-assignment.streamlit.app)**
+👉 **[View Live App](https://vexardrive-assignment.streamlit.app)** | 🚀 **[Live Deployed App Link](https://vexardrive-assignment.streamlit.app)**
 
 ---
 
@@ -105,4 +105,4 @@ vexardrive-assignment/
 - **Candidate**: Prince Maurya
 - **Target Role**: Data Science Intern — VexarDrive Technologies × Polaris
 - **Repository**: [github.com/alwaysprince05/vexardrive-assignment](https://github.com/alwaysprince05/vexardrive-assignment)
-- **Live App**: [vexardrive-assignment.streamlit.app](https://vexardrive-assignment.streamlit.app)
+- **Live Dashboard**: [👉 View Live App](https://vexardrive-assignment.streamlit.app)
